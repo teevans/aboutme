@@ -40,7 +40,7 @@ are we working on, where are we going, and are we meeting expectations.
 
 ### VIM
 
-Check out my (dotfiles repo.)[https://github.com/teevans/cfg] for specific examples, but I've more or 
+Check out my [dotfiles repo.](https://github.com/teevans/cfg) for specific examples, but I've more or 
 less turned VIM into my IDE of choice. Every now and again I'll try to switch back to something with 
 more "language specific" features like Goland VS Code. Though great editors, they don't really fit 
 my workflow speed. Typically when I switch back it goes like this: "VS Code has this feature built in. I'll
