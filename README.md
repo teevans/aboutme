@@ -4,7 +4,7 @@ A little about me.
 
 For those interested, I've compiled a few pieces of what makes me me. 
 
-## what I work on 
+## What I Work On
 
 I do tech. Specifically, anything involving software development/IT management. 
 Right now my day usually involves Kubernetes, React, Go, Linux, and most importantly, people.
@@ -26,7 +26,7 @@ of your workflow as possible, you can maintain productivity while maintaining th
 A lot of times it's not just following the buzzwords, but instead following the design decisions made by 
 the stakeholders.
 
-## how I work
+## How I Work
 
 I use a plethora of different tools throughout the day. Below are some things I use regularly, and 
 how I use them.
