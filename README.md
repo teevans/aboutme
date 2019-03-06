@@ -37,7 +37,7 @@ Thinkpad T480, Ubuntu 18.04
 
 ### Keyboard
 
-Ergodox EZ...Blues....cover your ears.
+Ergodox EZ...MX Cherry Blues....cover your ears.
 
 ### Project Management
 
