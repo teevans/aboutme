@@ -31,6 +31,14 @@ the stakeholders.
 I use a plethora of different tools throughout the day. Below are some things I use regularly, and 
 how I use them.
 
+### Computer
+
+Thinkpad T480, Ubuntu 18.04
+
+### Keyboard
+
+Ergodox EZ...Blues....cover your ears.
+
 ### Project Management
 
 I've used all of the major project management systems. I don't mind any of them, but I find 
@@ -42,7 +50,7 @@ are we working on, where are we going, and are we meeting expectations.
 
 Check out my [dotfiles repo.](https://github.com/teevans/cfg) for specific examples, but I've more or 
 less turned VIM into my IDE of choice. Every now and again I'll try to switch back to something with 
-more "language specific" features like Goland VS Code. Though great editors, they don't really fit 
+more "language specific" features like Goland or VS Code. Though great editors, they don't really fit 
 my workflow speed. Typically when I switch back it goes like this: "VS Code has this feature built in. I'll
 give it another shot. OK...I quit...can't do without VIM."
 
@@ -61,7 +69,7 @@ in the repo. I'll pipe ripgrep to it to fuzzy search strings, and I've got a boo
 home dir that I can put folder paths into. Then I'll alias something like 'bm' in my terminal to pipe
 that file into fzf so I can quickly navigate folders. It's great. Use it.
 
-#### <leader>gf
+#### Vim Command: <leader>gf
 This goes to the file path listed under the cursor. Mind freaking blown. 
 
 ### i3 WM
